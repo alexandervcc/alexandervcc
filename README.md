@@ -1,16 +1,73 @@
-### Hi there 👋
+### Hello 👋 My name is Alex Charco
 
-<!--
-**alexandervcc/alexandervcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer, my main focus is web products. However a I have experience with many technologies in order to build Front-End, Back-End and Mobile solutions. My main stack is composed by Kotlin for Android Development, Java with Spring Framework and Angular & React.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Ecuador
+* 🖥️  See my portfolio at [Alex's Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Working on it!! xD)
+* ✉️  You can contact me at [alex.charco.25@gmail.com](alex.charco.25@gmail.com)
+* 🚀  I'm currently working at [Devsu](https://devsu.com/) as a Full-Stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+<a href="https://developer.android.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/376355/android.svg" width="36" height="36" alt="Android" />
+</a>
+<a href="https://kotlinlang.org/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/303617/kotlin-1-logo.svg" width="36" height="36" alt="Kotlin" />
+</a>
+<a href="https://spring.io/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" width="36" height="36" alt="Spring Framework" />
+</a>
+<a href="https://www.java.com/en/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/184143/java.svg" width="36" height="36" alt="Java " />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="">
+  <img src="https://www.svgrepo.com/show/349540/typescript.svg" width="36" height="36" alt="Typescript" />
+</a>
+<a href="https://angular.io/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/373427/angular.svg" width="36" height="36" alt="Angular" />
+</a>
+<a href="https://reactjs.org/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/354259/react.svg" width="36" height="36" alt="React" />
+</a>
+<a href="https://nextjs.org/docs" target="_blank" >
+  <img src="https://www.svgrepo.com/show/354112/nextjs.svg" width="36" height="36" alt="NextJs" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="36" height="36" alt="NodeJS" />
+</a>
+<a href="https://docs.nestjs.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="36" height="36" alt="NestJS" />
+</a>
+<a href="https://cloud.google.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/303651/google-cloud-logo.svg" width="36" height="36" alt="Google Cloud Platform" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="36" height="36" alt="MongoDB" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" width="36" height="36" alt="MySQL" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" />
+</a>
+<a href="https://www.figma.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/353733/figma.svg" width="36" height="36" alt="Figma" />
+</a>
+
+
+### My Social
+<a href="https://www.linkedin.com/in/alex-charco-cuenca/" target="_blank">
+  <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="32" height="32" />
+</a> 
+<a href="https://twitter.com/alexander_vcc" target="_blank">
+  <img src="https://www.svgrepo.com/show/20626/twitter.svg" width="32" height="32" />
+</a>
