@@ -67,7 +67,4 @@ I am a Software Developer, my main focus is web products. However a I have exper
 ### My Social
 <a href="https://www.linkedin.com/in/alex-charco-cuenca/" target="_blank">
   <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="32" height="32" />
-</a> 
-<a href="https://twitter.com/alexander_vcc" target="_blank">
-  <img src="https://www.svgrepo.com/show/20626/twitter.svg" width="32" height="32" />
 </a>
