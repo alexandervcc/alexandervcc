@@ -3,7 +3,7 @@
 I am a Software Developer, my main focus is web products. However a I have experience with many technologies in order to build Front-End, Back-End and Mobile solutions. My main stack is composed by Kotlin for Android Development, Java with Spring Framework and Angular & React.
 
 * 🌍  I'm based in Ecuador
-* 🖥️  See my portfolio at [Alex's Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Working on it!! xD)
+* 🖥️  See my portfolio at [Alex's Portfolio](https://acc-portfolio-41c30.web.app/) (Working on it!! xD)
 * ✉️  You can contact me at [alex.charco.25@gmail.com](alex.charco.25@gmail.com)
 * 🚀  I'm currently working at [Devsu](https://devsu.com/) as a Full-Stack developer.
 
