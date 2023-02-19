@@ -38,9 +38,6 @@ I am a Software Developer, my main focus is web products. However a I have exper
 <a href="https://docs.nestjs.com/" target="_blank" >
   <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="36" height="36" alt="NestJS" />
 </a>
-<a href="https://cloud.google.com/" target="_blank" >
-  <img src="https://www.svgrepo.com/show/303651/google-cloud-logo.svg" width="36" height="36" alt="Google Cloud Platform" />
-</a>
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" />
 </a>
