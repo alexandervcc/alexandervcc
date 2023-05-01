@@ -1,9 +1,9 @@
 ### Hello 👋 My name is Alex Charco
 
-I am a Software Developer, my main focus is web products. However a I have experience with many technologies in order to build Front-End, Back-End and Mobile solutions. My main stack is composed by Kotlin for Android Development, Java with Spring Framework and Angular & React.
+I am a Software Developer. I have experience with many technologies in order to build Front-End, Back-End and Mobile solutions. My main stack is composed by Kotlin for Android Development, Java with Spring Framework and Angular.
 
 * 🌍  I'm based in Ecuador
-* 🖥️  See my portfolio at [Alex's Portfolio](https://acc-portfolio-41c30.web.app/) (Working on it!! xD)
+* 🖥️  See my portfolio at [Alex's Portfolio](https://acc-portfolio-41c30.web.app/) 
 * ✉️  You can contact me at [alex.charco.25@gmail.com](alex.charco.25@gmail.com)
 * 🚀  I'm currently working at [Devsu](https://devsu.com/) as a Full-Stack developer.
 
