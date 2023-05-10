@@ -26,12 +26,6 @@ I am a Software Developer. I have experience with many technologies in order to 
 <a href="https://angular.io/" target="_blank" >
   <img src="https://www.svgrepo.com/show/373427/angular.svg" width="36" height="36" alt="Angular" />
 </a>
-<a href="https://reactjs.org/" target="_blank" >
-  <img src="https://www.svgrepo.com/show/354259/react.svg" width="36" height="36" alt="React" />
-</a>
-<a href="https://nextjs.org/docs" target="_blank" >
-  <img src="https://www.svgrepo.com/show/354112/nextjs.svg" width="36" height="36" alt="NextJs" />
-</a>
 <a href="https://nodejs.org/en/" target="_blank" >
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="36" height="36" alt="NodeJS" />
 </a>
