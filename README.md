@@ -5,7 +5,7 @@ I am a Software Developer. I have experience with many technologies in order to 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [Alex's Portfolio](https://acc-portfolio-41c30.web.app/) 
 * ✉️  You can contact me at [alex.charco.25@gmail.com](alex.charco.25@gmail.com)
-* 🚀  I'm currently working at [Devsu](https://devsu.com/) as a Full-Stack developer.
+* 🚀  I'm currently working at [Ocelot](https://www.ocelotbot.com/) as a Full-Stack developer.
 
 ### My Skills
 <a href="https://developer.android.com/" target="_blank" >
