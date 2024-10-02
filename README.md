@@ -52,6 +52,12 @@ I am a Software Developer. I have experience with many technologies in order to 
 <a href="https://www.figma.com/" target="_blank" >
   <img src="https://www.svgrepo.com/show/353733/figma.svg" width="36" height="36" alt="Figma" />
 </a>
+<a href="https://aws.amazon.com/" target="_blank" >
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" width="36" height="36" alt="Figma" />
+</a>
+<a href="https://www.terraform.io/" target="_blank" >
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" height="36" alt="Figma" />
+</a>
 
 
 ### My Social
