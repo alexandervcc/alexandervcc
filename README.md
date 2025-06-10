@@ -4,7 +4,7 @@ I am a Software Developer. I have experience with many technologies in order to 
 
 * 🌍  I'm based in Ecuador
 * 🖥️  See my [portfolio](https://acc-portfolio-41c30.web.app/).
-* 🚀  I'm currently working at [Ocelot](https://www.ocelotbot.com/) as a Software Engineer.
+* 🚀  I'm currently working at [Gravyty](https://gravyty.com/) as a Software Engineer.
 
 ### My Skills
 <a href="https://www.java.com/en/" target="_blank" >
